@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alka Godbole
 - 👀 I’m interested in Web Development Technologies
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on 
 - 📫 alkagod1999@gmail.com
 
 <!---
